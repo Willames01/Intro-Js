@@ -1,0 +1,8 @@
+// Soma Aritimetica //
+
+function calcularSoma(valor1, valor2) {
+    console.log(valor1 + valor2);
+}
+
+calcularSoma(3, 2); 
+calcularSoma(6, 8); 
